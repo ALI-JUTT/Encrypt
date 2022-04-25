@@ -9,9 +9,9 @@ pkg install git
 
 #GIT
 
-git clone https://github.com/ALI-JUTT/Dumper
+git clone https://github.com/ALI-JUTT/Encrypt
 
-cd Dumper
+cd Encrypt
 
 USAGE
 
