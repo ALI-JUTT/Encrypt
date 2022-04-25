@@ -1,6 +1,6 @@
 # Encrypt
 
-INSALL 👇🏻
+# INSALL 👇🏻
 
 pkg update && pkg upgrade
 
