@@ -7,12 +7,12 @@ pkg update && pkg upgrade
 pkg install git
 
 
-#GIT
+# GIT
 
 git clone https://github.com/ALI-JUTT/Encrypt
 
 cd Encrypt
 
-USAGE
+# USAGE
 
 python Enc.py filename.py
