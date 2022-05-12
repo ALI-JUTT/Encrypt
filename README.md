@@ -21,7 +21,3 @@ cd Encrypt
 python Enc.py filename.py
 
 
-<div class="asadali_02">
-      <a href="https://www.instagram.com/my_financial_blog/" target="_blank">
-        <i class="fab fa-instagram"></i>
-      </a>
